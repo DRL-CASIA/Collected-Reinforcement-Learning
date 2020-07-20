@@ -71,6 +71,7 @@ Talks/Tutorials:
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Advanced Deep Learning & Reinforcement Learning (UCL 2018, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 -[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+-[Model-Based Methods in Reinforcement Learning @ ICML2020-Tutorial](https://sites.google.com/view/mbrl-tutorial), 
 
 Other Projects:
 
