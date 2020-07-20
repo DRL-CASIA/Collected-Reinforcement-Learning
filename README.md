@@ -70,8 +70,8 @@ Talks/Tutorials:
 - [Deep Reinforcement Learning Slides @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Advanced Deep Learning & Reinforcement Learning (UCL 2018, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
--[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
--[Model-Based Methods in Reinforcement Learning @ ICML2020-Tutorial](https://sites.google.com/view/mbrl-tutorial), 
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [Model-Based Methods in Reinforcement Learning @ ICML2020-Tutorial](https://sites.google.com/view/mbrl-tutorial), 
 
 Other Projects:
 
