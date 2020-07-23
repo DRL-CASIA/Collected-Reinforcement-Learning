@@ -78,6 +78,10 @@ Other Projects:
 - [carpedm20/deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow)
 - [matthiasplappert/keras-rl](https://github.com/matthiasplappert/keras-rl)
 
+Helpful resource for following the latest trends of RL:
+
+- [RL Weekly](https://www.endtoend.ai/rl-weekly)
+
 Selected Papers:
 
 - [Human-Level Control through Deep Reinforcement Learning (2015-02)](http://www.readcube.com/articles/10.1038/nature14236)
