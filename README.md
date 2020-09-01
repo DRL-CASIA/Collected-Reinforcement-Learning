@@ -94,3 +94,11 @@ Selected Papers:
 - [Asynchronous Methods for Deep Reinforcement Learning (2016-02)](http://arxiv.org/abs/1602.01783)
 - [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games (2016-03)](http://arxiv.org/abs/1603.01121)
 - [Mastering the game of Go with deep neural networks and tree search](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
+
+Solutions for RL competitions:
+- KDD Cup 2020 (RL track), Learning to dispatch and reposition on a mobility-on-demand platform [1st solution for task 1: order dispatching](https://github.com/maybeluo/KDDCup2020-RL-1st-solution), [Details](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650796572&idx=4&sn=9c0bdc189e6567612b222263de977ae3&chksm=871a3662b06dbf743a2b36fb0f77fa149f1077bb0ab84e09574e46966be9610e8455a1a3f476&mpshare=1&scene=1&srcid=0901g4Qr8PqOkS0epQSomtZP&sharer_sharetime=1598937150866&sharer_shareid=1b3376bd3bafcdb7884c34bbd7ffb337&key=bf5b07d1268a5d2054335bb3266b4d25dd70bcf0459fab3d74b918fe0a884ecbf581147d7097444a01120033175ec1c2d4fa95646a2cacc681546b07ee4056690f9abeb06538fdc50f0d37770995ef8936e162397a059943e02d6aad0192ee441fe695d66dbf82a0fdc190b6a08524b987b0a1dd3d783164435ee7315408c1a9&ascene=1&uin=MjE0NzI4MTIwOQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AQ3OrxI1c8F8WLv3td1Rz3s%3D&pass_ticket=rpgXEsuHJf%2B6y7DPihn5BU7j7MUeVSGKXfKk5fh%2F9wEas%2BrB%2BhfJz%2Fsw48Vwb2xe)
+
+
+
+
+
